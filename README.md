@@ -1,7 +1,10 @@
 # High Speed PCB Design in KiCad
 
-![PCB Overview](docs/screenshots/pcb-overview.png)
+## Top Side
+![PCB Overview](https://github.com/tsokomalusi/LattePanda-MU-Custom-Carrier-Board/blob/main/Images/PCB_3D_MODEL_TOP.png)
 
+## Bottom Side
+![PCB Overview](https://github.com/tsokomalusi/LattePanda-MU-Custom-Carrier-Board/blob/main/Images/PCB_3D_MODEL_BOTTOM.png)
 ## Overview
 
 This repository contains a high-speed PCB design practice project created in KiCad
