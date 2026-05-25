@@ -85,13 +85,7 @@ The design was analyzed using the NextPCB DFM tool to identify:
 
 This exercise helped reinforce practical PCB manufacturing constraints and layout discipline.
 
-## Repository Structure
 
-```text
-docs/       -> PDFs, screenshots, and design notes
-hardware/   -> KiCad project source files
-assets/     -> supporting images and certificates
-```
 
 ## Lessons Learned
 
