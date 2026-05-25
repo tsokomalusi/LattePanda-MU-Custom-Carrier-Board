@@ -119,7 +119,8 @@ impedance calculator and stackup tools.
 - Length matching practices applied where practical
 
 # Schematics
-
+Detailed Schematic of this project can be found within this repository.
+[Schematic](https://github.com/tsokomalusi/LattePanda-MU-Custom-Carrier-Board/blob/main/LattePandaMU_Carrier_Custom_Board.pdf)
 
 ## Design Notes
 
