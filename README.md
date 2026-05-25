@@ -46,7 +46,7 @@ The project focused on learning and applying:
 
 ### HDMI Routing
 
-![HDMI Routing](docs/screenshots/hdmi-routing.png)
+![HDMI Routing](https://github.com/tsokomalusi/LattePanda-MU-Custom-Carrier-Board/blob/main/Images/HDMI_Routing.png))
 
 ### Gigabit Ethernet Routing
 
