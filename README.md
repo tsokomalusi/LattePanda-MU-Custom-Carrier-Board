@@ -122,24 +122,6 @@ impedance calculator and stackup tools.
 Detailed Schematic of this project can be found within this repository.
 [Schematic](https://github.com/tsokomalusi/LattePanda-MU-Custom-Carrier-Board/blob/main/LattePandaMU_Carrier_Custom_Board.pdf)
 
-## Design Notes
-
-### USB 3.0
-- Differential impedance target considered during routing
-- Pair spacing maintained consistently
-- Length matching applied to SuperSpeed pairs
-- Minimal via transitions used
-
-### HDMI
-- Differential pair skew minimized
-- Length tuning performed using KiCad tools
-- Routing symmetry prioritized
-
-### Gigabit Ethernet
-- Pair matching applied
-- Clean return paths considered
-- Routing isolated from noisy regions where possible
-
 ## DFM Review
 
 The design was analyzed using the NextPCB DFM tool to identify:
@@ -153,22 +135,26 @@ This exercise helped reinforce practical PCB manufacturing constraints and layou
 
 ## Lessons Learned
 
-- High-speed routing requires planning before placement
-- Return paths strongly affect signal integrity
-- Differential pair tuning introduces routing tradeoffs
-- Layer stackup decisions affect impedance behavior
-- DFM analysis helps bridge design and manufacturing
+- High-speed routing requires careful planning before layout begins
+- PCB stackup directly affects routing constraints and impedance behavior
+- Differential pair routing introduces spacing and tuning challenges
+- Length tuning requires balancing routing quality and board space
+- Reference designs are valuable learning tools for understanding real-world layouts
+- DFM analysis helps identify manufacturing issues early in the design process
+- Teardrops improve routing robustness and manufacturability
+- High-speed PCB design involves both electrical and mechanical tradeoffs
 
 ## TOOLCHAIN
 
-- Git/Github: VCS and profile
-- KICAD: Schematic Capture
-- HQDFM - DFM Analysis
+- KiCad — schematic capture and PCB layout
+- Git & GitHub — version control and project hosting
+- NextPCB HQDFM — DFM analysis and manufacturability review
   
 ## Disclaimer
 
 This project was created for educational and portfolio purposes.
 
 The board has not been fabricated or electrically validated.
+PCIe - not implemented to reduce complexity at this stage, but can be future enhancement for V2.0 hopefully.
 
 The DFM analysis is still work in progress.
