@@ -35,9 +35,10 @@ The project focused on learning and applying:
 
 ## PCB Layout
 
+
 ### Full PCB Overview
 
-![PCB Overview](docs/screenshots/pcb-overview.png)
+![PCB Layout]([docs/screenshots/pcb-overview.png](https://github.com/tsokomalusi/LattePanda-MU-Custom-Carrier-Board/blob/main/Images/PCB_Layout.png))
 
 ### USB 3.0 Routing
 
