@@ -42,7 +42,7 @@ The project focused on learning and applying:
 
 ### USB 3.0 Routing
 
-![USB3 Routing](docs/screenshots/usb3-routing.png)
+![USB3 Routing](https://github.com/tsokomalusi/LattePanda-MU-Custom-Carrier-Board/blob/main/Images/USB3.0_Routing.png))
 
 ### HDMI Routing
 
