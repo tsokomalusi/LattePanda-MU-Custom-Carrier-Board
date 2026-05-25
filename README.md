@@ -33,6 +33,10 @@ The project focused on learning and applying:
 - PCB stackup awareness
 - Manufacturability considerations
 
+
+## PCB STACKUP AND IMPEDANCE CALCULATOR - NEXTPCB
+
+
 ## PCB Layout
 
 
