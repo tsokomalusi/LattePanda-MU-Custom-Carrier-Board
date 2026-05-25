@@ -1,6 +1,6 @@
 # High Speed PCB Design in KiCad
 
-![PCB Overview](docs/screenshots/pcb-overview.png)
+![PCB Overview]([docs/screenshots/pcb-overview.png](https://github.com/tsokomalusi/LattePanda-MU-Custom-Carrier-Board/blob/main/Images/PCB_3D_MODEL_TOP.png))
 
 ## Overview
 
