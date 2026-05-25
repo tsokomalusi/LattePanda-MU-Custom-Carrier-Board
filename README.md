@@ -50,7 +50,7 @@ The project focused on learning and applying:
 
 ### Gigabit Ethernet Routing
 
-![Ethernet Routing](docs/screenshots/ethernet-routing.png)
+![Ethernet Routing](https://github.com/tsokomalusi/LattePanda-MU-Custom-Carrier-Board/blob/main/Images/Ethernet_Routing.png))
 
 ### Differential Pair Tuning
 
@@ -88,8 +88,6 @@ The design was analyzed using the NextPCB DFM tool to identify:
 - manufacturability issues
 
 This exercise helped reinforce practical PCB manufacturing constraints and layout discipline.
-
-
 
 ## Lessons Learned
 
