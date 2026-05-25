@@ -102,7 +102,7 @@ This exercise helped reinforce practical PCB manufacturing constraints and layou
 - Git/Github: VCS and profile
 - KICAD: Schematic Capture
 - HQDFM - DFM Analysis
-- 
+  
 ## Disclaimer
 
 This project was created for educational and portfolio purposes.
