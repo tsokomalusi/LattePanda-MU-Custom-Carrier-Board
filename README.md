@@ -36,7 +36,10 @@ The project focused on learning and applying:
 
 ## PCB STACKUP AND IMPEDANCE CALCULATOR - NEXTPCB
 
+
 ![IMPEDANCE_CAL](https://github.com/tsokomalusi/LattePanda-MU-Custom-Carrier-Board/blob/main/Images/PCB_Impedance_Calculator.png)
+
+![PCB_STACKUP](https://github.com/tsokomalusi/LattePanda-MU-Custom-Carrier-Board/blob/main/Images/PCB_STACKUP.png)
 
 ## PCB Layout
 
