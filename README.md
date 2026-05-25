@@ -97,8 +97,16 @@ This exercise helped reinforce practical PCB manufacturing constraints and layou
 - Layer stackup decisions affect impedance behavior
 - DFM analysis helps bridge design and manufacturing
 
+## TOOLCHAIN
+
+- Git/Github: VCS and profile
+- KICAD: Schematic Capture
+- HQDFM - DFM Analysis
+- 
 ## Disclaimer
 
 This project was created for educational and portfolio purposes.
 
 The board has not been fabricated or electrically validated.
+
+The DFM analysis is still work in progress.
