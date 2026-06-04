@@ -29,7 +29,7 @@ design workflows.
 # 3D PCB Views
 
 ## Top Side
-![PCB Overview](https://github.com/tsokomalusi/LattePanda-MU-Custom-Carrier-Board/blob/main/Images/PCB_3D_MODEL_TOP.png)
+![PCB Overview](https://github.com/tsokomalusi/LattePanda-MU-Custom-Carrier-Board/blob/main/Images/PCB_3D_MODEL_TOP.png
 
 ## Bottom Side
 ![PCB Overview](https://github.com/tsokomalusi/LattePanda-MU-Custom-Carrier-Board/blob/main/Images/PCB_3D_MODEL_BOTTOM.png)
