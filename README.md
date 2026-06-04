@@ -87,7 +87,7 @@ impedance calculator and stackup tools.
 
 ### USB 3.0 Routing
 
-![USB3 Routing](https://github.com/tsokomalusi/LattePanda-MU-Custom-Carrier-Board/blob/main/Images/USB3.0_Routing.png))
+![USB3 Routing](https://github.com/tsokomalusi/LattePanda-MU-Custom-Carrier-Board/blob/main/Images/USB3.0_Routing.png)
 
 ### Notes
 
@@ -100,7 +100,7 @@ impedance calculator and stackup tools.
 
 ### HDMI Routing
 
-![HDMI Routing](https://github.com/tsokomalusi/LattePanda-MU-Custom-Carrier-Board/blob/main/Images/HDMI_Routing.png))
+![HDMI Routing](https://github.com/tsokomalusi/LattePanda-MU-Custom-Carrier-Board/blob/main/Images/HDMI_Routing.png)
 ### Notes
 
 - TMDS differential pair routing implemented
@@ -110,7 +110,7 @@ impedance calculator and stackup tools.
 
 ### Gigabit Ethernet Routing
 
-![Ethernet Routing](https://github.com/tsokomalusi/LattePanda-MU-Custom-Carrier-Board/blob/main/Images/Ethernet_Routing.png))
+![Ethernet Routing](https://github.com/tsokomalusi/LattePanda-MU-Custom-Carrier-Board/blob/main/Images/Ethernet_Routing.png)
 ### Notes
 
 - Differential pair routing used for Ethernet signals
